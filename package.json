@@ -1,0 +1,35 @@
+{
+  "name": "@behaver/pluto99-hecc",
+  "version": "1.0.0",
+  "description": "This pkg is a calculator for J2000 heliocentric ecliptic coordinate of pluto on pluto99 theory.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@behaver/coordinate": "^3.3.0",
+    "@behaver/jdate": "^2.3.0"
+  },
+  "devDependencies": {
+    "@behaver/celestial-coordinate": "^1.4.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behaver/pluto99-hecc.git"
+  },
+  "keywords": [
+    "pluto",
+    "coordinate"
+  ],
+  "author": "Sanwan, Dong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behaver/pluto99-hecc/issues"
+  },
+  "homepage": "https://github.com/behaver/pluto99-hecc#readme"
+}
