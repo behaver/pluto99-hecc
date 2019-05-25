@@ -1,6 +1,6 @@
 {
   "name": "@behaver/pluto99-hecc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This pkg is a calculator for J2000 heliocentric ecliptic coordinate of pluto on pluto99 theory.",
   "main": "index.js",
   "directories": {
