@@ -35,6 +35,7 @@ class Pluto99HECC {
     let self = this;
     
     this.private = {};
+    jdate = (jdate === undefined) ? new JDateRepository : jdate;
     this.private.jdate = jdate;
     this.cache = new CacheSpaceOnJDate(jdate);
 
